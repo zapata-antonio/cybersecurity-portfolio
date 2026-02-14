@@ -54,5 +54,5 @@ Perfil técnico con base fuerte en **operación, troubleshooting y documentació
 ## Contacto
 
 - Email: zapataantonio@gmail.com
-- GitHub: https://github.com/zapata-antonio
+- GitHub: https://github.com/zapata-antonio/cybersecurity-portfolio
 
