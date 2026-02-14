@@ -38,18 +38,6 @@ Cada laboratorio se documenta con:
 
 ---
 
-## Estructura recomendada (en cada laboratorio)
-
-Dentro de cada repo verás una estructura similar:
-
-- `README.md` con el paso a paso
-- carpeta `images/` con capturas numeradas
-- sección final con “qué diría en entrevista” (en 4–6 líneas)
-
-Ejemplo de nomenclatura de evidencias:
-- `images/01-...png`
-- `images/02-...png`
-- `images/03-...png`
 
 ---
 
